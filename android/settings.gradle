@@ -1,0 +1,3 @@
+rootProject.name = 'boltbox_2570'
+
+include ':app'
